@@ -2,6 +2,6 @@
 
 #Install etape
 
-1- git clone MONPROJET.git
+1- git clone drupaldOCKER.git
 2- docker-compose up -d
 3- docker-exec DRUPAL_CONTAINER composer install
